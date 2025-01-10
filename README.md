@@ -9,5 +9,5 @@ This was done with the help of FreeCode Camp to help improve upon my CSS skills.
 ----
 
 ## Technologies Used
-- HTML
-- CSS
+- HTML : For the structure of the website
+- CSS : For the styling and design of the penguin
